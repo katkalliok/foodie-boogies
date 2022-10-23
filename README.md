@@ -9,7 +9,7 @@ The deployed version fails to show the contents of the category products page in
 
 Foodie Boogies is a Dart/Flutter web app portraying an online store for groceries. The store provides supplies in five product categories: Fruit and Vegetables, Grains, Sweets, Snacks, and Drinks. The user can browse and search for products and product categories, add products to cart, adjust the amount of each product type in cart, select their method of payment, and confirm their order. They can also adjust their personal user settings like name, address, and credit card number, which are stored and remembered also after refreshing the website.
 
-### Application functionality
+### Application Functionality
 --------
 
 When the web app is first started, the user starts from a landing page presenting the store's product categories and some of the store's supplied products. Via the icon buttons in the navigation bar, the user can also select to view or edit their user settings or look at their shopping cart, whose product count (initally 0) is shown below the button. Using the navigation buttons below the short website description, the user can navigate to the page listing the categories or to the search page.
